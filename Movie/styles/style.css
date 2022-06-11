@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota:wght@300&family=Jura:wght@300&display=swap');
+* {box-sizing: border-box}
+h4,h2,h1{
+font-family: Jura, sans-serif;
+}
+/* Add padding to containers */
+.container {
+  padding: 16px;
+   background:url(../img/bg.) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+h4 { 
+ color: white;
+  }
+audio { 
+	margin-left: 380px;
+ }
+.footer {
+	
+	width:100%;
+	
+	background-color: black;
+	opacity:60%;
+	
+	background-size: 100% 250%;
+	
+	height: 150px;
+	
+	box-shadow:5px 3px 7px #000000;
+
+	
+}
+body {
+	text-align: justify;
+	text-indent:20 px;
+	
+	padding: 5% 10%;	
+	background:url(../img/bgm.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+		
+
+}
+a {
+	text-decoration:none;
+}
+a:hover{
+	color:#00ff00;
+}
+.name {
+	margin-left:35px;
+	margin-top:25px;
+
+	height: 90px;	
+}
+#year {
+	margin-left:280px;
+	
+	border:solid 4px white;
+	
+	width:400px;
+	
+	padding:8px;
+	
+}
+p{
+	color:white;
+}
+h1{
+	color:white;
+	
+
+}
+h2{
+	color:white;
+}
+h4{
+	color:white;
+	
+	margin-left:390px;
+}
+.inter {
+	width:18%;
+	
+	float:left;
+	
+	margin-left:50px;
+}
+.fa-instagram{
+	
+	color:white;
+	
+	font-size: 50px;
+	
+	margin-top:45px;
+	
+	margin-left:700px;
+	
+}
+/*-----------------------*/
+.fa-youtube{
+	
+	color:white;
+	
+	font-size: 50px;
+	
+	margin-left:40px;
+	
+}
+/*-----------------------*/
+.fa-facebook{
+	
+	color:white;
+	
+	font-size: 50px;
+	
+	margin-left:40px;
+	
+}
+.imdp {
+	width:25%;
+	
+	float:left;
+	
+	box-shadow:5px 3px 7px #000000;
+}
+.imdv{
+	width:25%;
+	
+	float:left;
+	
+	box-shadow:5px 3px 7px #000000;
+	
+	
+}
